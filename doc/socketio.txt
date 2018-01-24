@@ -7,4 +7,12 @@
 
 　　app.js, index.html
 　　
+【チャットアプリ開発に見る、Socket.IOの基本ライブラリの使い方】
+
+（参考）http://www.atmarkit.co.jp/ait/articles/1604/27/news026.html
+（場所）websocket-chat/
+
+・ブロードキャスト送信(2018.01.24)
+
+	app-broadcast.js, index-broadcast.html
 
