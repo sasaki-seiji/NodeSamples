@@ -1,0 +1,10 @@
+【いまさら聞けないWebSocketとSocket.IOの基礎知識＆インストール】
+
+（参考）http://www.atmarkit.co.jp/ait/articles/1603/14/news015.html
+（場所）websocket-chat/
+
+・チャットアプリケーションの雛形(2018.01.24)
+
+　　app.js, index.html
+　　
+

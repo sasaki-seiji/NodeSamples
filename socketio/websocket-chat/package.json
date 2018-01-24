@@ -1,0 +1,27 @@
+{
+  "name": "websocket-chat",
+  "version": "1.0.0",
+  "description": "socket.io samples",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sasaki-seiji/NodeSamples.git"
+  },
+  "keywords": [
+    "socket.io",
+    "websocket",
+    "node.js"
+  ],
+  "author": "sasaki-seiji",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sasaki-seiji/NodeSamples/issues"
+  },
+  "homepage": "https://github.com/sasaki-seiji/NodeSamples#readme",
+  "dependencies": {
+    "socket.io": "^2.0.4"
+  }
+}
