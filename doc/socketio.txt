@@ -16,3 +16,7 @@
 
 	app-broadcast.js, index-broadcast.html
 
+・個別送信(2018.01.24)
+
+	app-unicast.js, index-unicast.html
+	
