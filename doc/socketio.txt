@@ -20,3 +20,16 @@
 
 	app-unicast.js, index-unicast.html
 	
+【Socket.IO開発時に役立つツール4選とroom、namespaceライブラリの使い方】
+
+（参考）http://www.atmarkit.co.jp/ait/articles/1607/01/news027.html
+（場所）websocket-chat/
+
+・roomを使ったチャットルームの実装(2018.01.25)
+
+	app-room.js, index-room.html
+
+・namespaceを使った別機能の実装(2018.01.25)
+
+	app-namespace.js, index-namespace.html
+
