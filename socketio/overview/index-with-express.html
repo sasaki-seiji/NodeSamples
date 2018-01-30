@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <title>socket.io with express</title>
+  <script type="text/javascript" src="/socket.io/socket.io.js"></script>
+</head>
+<body>
+  <h2>socket.io with express</h2>
+  <script type="text/javascript">
+		var socket = io('http://localhost:3000');
+		socket.on('news', function (data) {
+		  console.log(data);
+		  socket.emit('my other event', { my: 'data' });
+		});
+  </script>
+</body>
+</html>
