@@ -1,0 +1,18 @@
+{
+  "name": "overview",
+  "version": "1.0.0",
+  "description": "socket.io overview samples",
+  "main": "app-with-node-server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "socket.io",
+    "node.js"
+  ],
+  "author": "sasaki-seiji",
+  "license": "ISC",
+  "dependencies": {
+    "socket.io": "^2.0.4"
+  }
+}

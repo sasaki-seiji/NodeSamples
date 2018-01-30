@@ -33,3 +33,10 @@
 
 	app-namespace.js, index-namespace.html
 
+
+【socket.io Overview】
+
+(参考）https://socket.io/docs/#
+（場所）overview
+
+・using with node http server
