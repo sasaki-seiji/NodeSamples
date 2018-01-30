@@ -39,4 +39,8 @@
 (参考）https://socket.io/docs/#
 （場所）overview
 
-・using with node http server
+・using with node http server(2018.01.30)
+・using with express 3/4 (2018.01.30)
+・sending and getting data(acknowledge) (2018.01.30)
+
+
