@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <title>socket.io with acknowledge</title>
+  <script type="text/javascript" src="/socket.io/socket.io.js"></script>
+</head>
+<body>
+  <h2>socket.io with acknowledge</h2>
+  <script type="text/javascript">
+		var socket = io(); // TIP: io() with no args does auto-discovery
+		socket.on('connect', function () { // TIP: you can avoid listening on `connect` and listen on events directly too!
+		  socket.emit('ferret', 'tobi', function (data) {
+		    console.log(data); // data will be 'woot'
+		  });
+		});
+  </script>
+</body>
+</html>
