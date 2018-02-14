@@ -1,0 +1,16 @@
+【Quick Start】
+
+（場所）http://mongodb.github.io/node-mongodb-native/3.0/quick-start/quick-start/
+
+・Connect to MongoDB
+
+　　app.js
+　　
+・Insert a Document
+　
+　		app-insert.js　
+　		
+・Find All Documents
+
+		app-findall.js
+		
