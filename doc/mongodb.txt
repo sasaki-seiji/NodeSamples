@@ -13,4 +13,7 @@
 ・Find All Documents
 
 		app-findall.js
-		
+
+・Find Documents with a Query Filter		
+
+		app-findwithfilter.js
