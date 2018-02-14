@@ -22,3 +22,7 @@
 
 		app-update.js
 		
+・Remove a document
+
+		app-remove.js
+		
