@@ -17,3 +17,8 @@
 ・Find Documents with a Query Filter		
 
 		app-findwithfilter.js
+		
+・Update a document
+
+		app-update.js
+		
