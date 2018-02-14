@@ -26,3 +26,7 @@
 
 		app-remove.js
 		
+・Index a Collection
+
+		app-index.js
+		
