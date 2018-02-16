@@ -1,6 +1,8 @@
 【Quick Start】
 
-（場所）http://mongodb.github.io/node-mongodb-native/3.0/quick-start/quick-start/
+（参考）http://mongodb.github.io/node-mongodb-native/3.0/quick-start/quick-start/
+
+（フォルダ）quickstart
 
 ・Connect to MongoDB
 

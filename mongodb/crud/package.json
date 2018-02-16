@@ -1,0 +1,17 @@
+{
+  "name": "crud",
+  "version": "1.0.0",
+  "description": "mongoDB CRUD samples",
+  "main": "insert.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "mongoDB"
+  ],
+  "author": "sasaki-seiji",
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "^3.0.2"
+  }
+}
