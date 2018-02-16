@@ -32,3 +32,13 @@
 
 		app-index.js
 		
+【CRUD Operations】
+	
+（参考）http://mongodb.github.io/node-mongodb-native/3.0/tutorials/crud/
+
+（フォルダ）	crud
+
+・Insert Douments
+
+		insert.js
+			
