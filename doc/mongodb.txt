@@ -32,6 +32,7 @@
 
 		app-index.js
 		
+		
 【CRUD Operations】
 	
 （参考）http://mongodb.github.io/node-mongodb-native/3.0/tutorials/crud/
@@ -40,5 +41,10 @@
 
 ・Insert Douments
 
-		insert.js
+		insert.js serializedFunctions.js
+
+・Specify a Data Type
+
+		specify-data-type.js
+		
 			
