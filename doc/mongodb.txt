@@ -46,5 +46,13 @@
 ・Specify a Data Type
 
 		specify-data-type.js
+
+・Updating Documents
+
+		update.js
+
+・Removing Documents
+
+		remove.js
 		
 			
