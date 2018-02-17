@@ -73,5 +73,5 @@
 		
 ・Read Methods
 
-		find.js 		
+		find.js find-next.js		
 		
