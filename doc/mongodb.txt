@@ -37,7 +37,7 @@
 		
 【CRUD Operations】
 	
-（日付）2018.02.17
+（日付）2018.02.17、2018.02.18
 
 （参考）http://mongodb.github.io/node-mongodb-native/3.0/tutorials/crud/
 
@@ -70,4 +70,8 @@
 ・Bulk Write Operations
 
 		bulk-write-operations.js
+		
+・Read Methods
+
+		find.js 		
 		
