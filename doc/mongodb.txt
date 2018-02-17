@@ -55,4 +55,7 @@
 
 		remove.js
 		
+・findOneAndUpdate, findOneAndDelete, and findOneAndReplace
+
+		find-and-modify.js
 			
