@@ -1,0 +1,18 @@
+{
+  "name": "mongoose-samples",
+  "version": "1.0.0",
+  "description": "mongoose samples",
+  "main": "getting-started.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "mongoose",
+    "mongoDB"
+  ],
+  "author": "sasaki-seiji",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^5.0.6"
+  }
+}
