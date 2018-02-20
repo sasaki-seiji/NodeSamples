@@ -4,3 +4,14 @@
 （参考）http://mongoosejs.com/docs/index.html
 （ファイル）getting-started.js
 
+【Schemas】
+
+（日付）2018.02.20
+（参考）http://mongoosejs.com/docs/guide.html
+（フォルダ）schemas
+
+・ファイル
+
+		schemas.js instance-methods.js static-methods.js query-helpers.js　	
+	
+
