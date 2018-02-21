@@ -13,5 +13,14 @@
 ・ファイル
 
 		schemas.js instance-methods.js static-methods.js query-helpers.js　	
+
+【Connections】
+
+（日付）2018.02.21
+（参考）http://mongoosejs.com/docs/connections.html
+（フォルダ）schemas
+
+・ファイル
 	
+		connection-buffering.js
 

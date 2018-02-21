@@ -13,7 +13,7 @@ var blogSchema = new Schema({
     favs:  Number
   }
 });
-console.log('blocSchema:\n', blogSchema);  
+console.log('blogSchema: ', blogSchema);
 
 var Blog = mongoose.model('Blog', blogSchema);
-console.log('Blog:\n', Blog);
+console.log('Blog: ', Blog);
