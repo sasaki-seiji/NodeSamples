@@ -35,3 +35,12 @@
 	
 		model.js connection-model.js querying.js removing.js
 
+【Documents】
+
+（日付）2018.02.24
+（参考）http://mongoosejs.com/docs/documents.html
+（フォルダ）documents
+
+・ファイル
+	
+		findById.js
