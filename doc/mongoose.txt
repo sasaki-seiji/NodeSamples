@@ -33,5 +33,5 @@
 
 ・ファイル
 	
-		model.js connection-model.js querying.js
+		model.js connection-model.js querying.js removing.js
 
