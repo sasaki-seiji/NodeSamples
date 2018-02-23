@@ -16,12 +16,22 @@
 
 【Connections】
 
-（日付）2018.02.21
+（日付）2018.02.21、2018.02.23
 （参考）http://mongoosejs.com/docs/connections.html
-（フォルダ）schemas
+（フォルダ）connections
 
 ・ファイル
 	
 		connection-buffering.js connection-buffering2.js options.js
 		callback.js callback2.js
+
+【Models】
+
+（日付）2018.02.23
+（参考）http://mongoosejs.com/docs/models.html
+（フォルダ）models
+
+・ファイル
+	
+		model.js
 
