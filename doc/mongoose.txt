@@ -43,5 +43,6 @@
 
 ・ファイル
 	
-		findById-save.js findById-set-save.js update.js
+		findById-save.js findById-set-save.js update.js findByIdAndUpdate.js
+		
 		
