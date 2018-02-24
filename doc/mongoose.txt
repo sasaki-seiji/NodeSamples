@@ -65,6 +65,6 @@
 ・ファイル
 	
 		query-with-callback.js query-without-callback.js with-json-doc.js
-		using-query-builder.js
+		using-query-builder.js streaming-query-result.js
 		
 								
