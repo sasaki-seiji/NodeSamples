@@ -45,4 +45,14 @@
 	
 		findById-save.js findById-set-save.js update.js findByIdAndUpdate.js
 		
+【Sub Docs】
+
+（日付）2018.02.24
+（参考）http://mongoosejs.com/docs/subdocs.html
+（フォルダ）subdocuments
+
+・ファイル
+	
+		documents.js
 		
+				
