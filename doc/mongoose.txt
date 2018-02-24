@@ -53,6 +53,6 @@
 
 ・ファイル
 	
-		documents.js save-middleware.js
+		documents.js save-middleware.js middleware-order.js
 		
 				
