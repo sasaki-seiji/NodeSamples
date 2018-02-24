@@ -56,4 +56,14 @@
 		documents.js save-middleware.js middleware-order.js adding-sub-docs.js
 		removing-subdocs.js alternate-declaration.js
 		
-				
+【Queries】
+
+（日付）2018.02.25
+（参考）http://mongoosejs.com/docs/queries.html
+（フォルダ）queries
+
+・ファイル
+	
+		query-with-callback.js
+		
+								
