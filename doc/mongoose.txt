@@ -54,6 +54,6 @@
 ・ファイル
 	
 		documents.js save-middleware.js middleware-order.js adding-sub-docs.js
-		removing-subdocs.js
+		removing-subdocs.js alternate-declaration.js
 		
 				
