@@ -64,6 +64,6 @@
 
 ・ファイル
 	
-		query-with-callback.js
+		query-with-callback.js query-without-callback.js
 		
 								
